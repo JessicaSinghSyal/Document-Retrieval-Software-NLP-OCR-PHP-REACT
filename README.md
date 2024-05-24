@@ -1,2 +1,8 @@
-# Document-Retrieval-Software-NLP-OCR-PHP-REACT
-This project is a document retrieval software using PHP, React, NLP, and OCR libraries. It stores documents in a database, processes and indexes them. Based on user searches, it predicts and suggests relevant documents, enhancing the user experience similar to a search engine.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
